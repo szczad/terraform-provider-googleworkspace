@@ -1,4 +1,9 @@
 ## 0.8.0 (Unreleased)
+
+BUG FIXES:
+
+* chrome policy: use the generated Chrome Policy API type names so the provider builds with the pinned Google API client.
+
 ## 0.7.0 (June 10, 2022)
 
 FEATURES:
